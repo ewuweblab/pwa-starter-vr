@@ -1,9 +1,9 @@
 {
-    "name": "Progressive Web App Starter",
-    "short_name": "PWA Starter",
-    "description": "Get up and running with PWAs quickly!",
+    "name": "The Louvre Museum in France",
+    "short_name": "Louvre",
+    "description": "The Mona Lisa is there. Instagram fodder.",
     "scope": ".",
-    "start_url": "/pwa-starter",
+    "start_url": "/pwa-starter-vr",
     "display": "standalone",
     "orientation": "portrait", 
     "background_color": "#ffffff",
